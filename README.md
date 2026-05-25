@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+CéCon+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+Cé+Con+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![DISCORD](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square)](https://discord.gg/imduong2k6)
 ![](https://komarev.com/ghpvc/?username=cecon123&color=e1bdff)

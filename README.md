@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=C5B9FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+CatCat+%F0%9F%91%8B;I+love+building+useful+software;Rust+%7C+Python+%7C+C%2B%2B+%7C+Java+%7C+TypeScript)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=cecon123&color=e1bdff&style=flat-square)](https://github.com/cecon123)
-[![GitHub followers](https://img.shields.io/github/followers/cecon123?style=flat-square&color=c5b9ff)](https://github.com/cecon123)
 [![Discord](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square)](https://discord.gg/imduong2k6)
 
 </div>

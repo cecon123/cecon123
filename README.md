@@ -36,18 +36,6 @@ I'm a developer who enjoys building practical tools, desktop apps, bots, and ful
 
 ---
 
-## Tools
-
-<p>
-  <code><img height="24" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-  <code><img height="24" alt="Bash" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
-  <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white">
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
-  <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-111827?style=flat-square&logo=terminal&logoColor=white">
-</p>
-
----
-
 ## All of my projects are available at [https://github.com/cecon123](https://github.com/cecon123)
 
 ## GitHub stats

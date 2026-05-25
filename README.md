@@ -30,8 +30,8 @@ Here are some ideas to get you started:
  
 - 👨‍💻 All of my projects are available at [https://github.com/cecon123](https://github.com/cecon123)
 
-<div align="center">
-  <img height=210 src="https://github-readme-stats--im-yuuki.vercel.app/api?username=cecon123&show_icons=true&show=prs_merged_percentage&theme=catppuccin_mocha" />
-  <img width="10" />
-  <img height=210 src="https://github-readme-stats--im-yuuki.vercel.app/api/top-langs/?username=cecon123&layout=compact&theme=catppuccin_mocha&langs_count=10&size_weight=0&count_weight=1&hide=html,css,cmake,batchfile" />
-</div>
+
+<img height=210 src="https://github-readme-stats--im-yuuki.vercel.app/api?username=cecon123&show_icons=true&show=prs_merged_percentage&theme=catppuccin_mocha" />
+<img width="10" />
+<img height=210 src="https://github-readme-stats--im-yuuki.vercel.app/api/top-langs/?username=cecon123&layout=compact&theme=catppuccin_mocha&langs_count=10&size_weight=0&count_weight=1&hide=html,css,cmake,batchfile" />
+

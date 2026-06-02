@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+Cé+Con+%F0%9F%91%8B)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/cecon123/cecon123/refs/heads/main/gura-drum.webp">
+
 ## 📬 Contact
 - 💌 Email: [cachuav3@gmail.com](mailto:cachuav3@gmail.com)
 - 💼 LinkedIn: [...](https://youtu.be/dQw4w9WgXcQ?si=V89ZJ-H43JCyHSMH)
@@ -41,6 +42,3 @@ Here are some ideas to get you started:
   <img width="10" />
   <img height=210 src="https://github-readme-stats--im-yuuki.vercel.app/api/top-langs/?username=cecon123&layout=compact&theme=catppuccin_mocha&langs_count=10&size_weight=0&count_weight=1&hide=html,css,cmake,batchfile" />
 </div>
-
-[![DISCORD](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square)](https://discord.gg/imduong2k6)
-![](https://komarev.com/ghpvc/?username=cecon123&color=e1bdff)

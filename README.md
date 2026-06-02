@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+Cé+Con+%F0%9F%91%8B)](https://git.io/typing-svg)
 [![DISCORD](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square)](https://discord.gg/imduong2k6)
 ![](https://komarev.com/ghpvc/?username=cecon123&color=e1bdff)
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/cecon123/cecon123/refs/heads/main/gura-drum.webp">
+
 ## 📬 Contact
 - 💌 Email: [cachuav3@gmail.com](mailto:cachuav3@gmail.com)
-- 🥺 LinkedIn: [...](https://youtu.be/dQw4w9WgXcQ?si=V89ZJ-H43JCyHSMH)
+- 💼 LinkedIn: [...](https://youtu.be/dQw4w9WgXcQ?si=V89ZJ-H43JCyHSMH)
 - 💬 Discord: [cecon123](https://discord.com/users/1071086835490639962)
 
 ## 🚀 Technologies

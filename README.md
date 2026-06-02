@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23C5B9FF&lines=Hi%2C+I'm+Cé+Con+%F0%9F%91%8B)](https://git.io/typing-svg)
-[![DISCORD](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square)](https://discord.gg/imduong2k6)
-![](https://komarev.com/ghpvc/?username=cecon123&color=e1bdff)
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/cecon123/cecon123/refs/heads/main/gura-drum.webp">
-
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/cecon123/cecon123/refs/heads/main/gura-drum.webp">
 ## 📬 Contact
 - 💌 Email: [cachuav3@gmail.com](mailto:cachuav3@gmail.com)
 - 💼 LinkedIn: [...](https://youtu.be/dQw4w9WgXcQ?si=V89ZJ-H43JCyHSMH)
@@ -26,17 +22,17 @@ Here are some ideas to get you started:
 
 ## 🚀 Technologies
 <div align="center">
-  <p><b><i>programming languages</i></b></p>
+  <p><b><i>Programming languages</i></b></p>
   <img src="https://skillicons.dev/icons?i=cpp,rust,js,ts,java,bash" height="40"/>   
-  <br />
+  <br/>
   
-  <p><b><i>frameworks & databases</i></b></p>
-  <img src="https://skillicons.dev/icons?i=reac,tnextjs,vite,tailwind,postgres,mongo" height="40"/>   
-  <br />
+  <p><b><i>Frameworks & Databases</i></b></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,postgres,mongo" height="40"/>   
+  <br/>
   
-  <p><b><i>IDEs & devtools</i></b></p>
+  <p><b><i>IDEs & Tools</i></b></p>
   <img src="https://skillicons.dev/icons?i=neovim,idea,vscode" height="40"/>   
-  <br />
+  <br/>
 </div>
 
 ## 📊 Stats
@@ -46,3 +42,5 @@ Here are some ideas to get you started:
   <img height=210 src="https://github-readme-stats--im-yuuki.vercel.app/api/top-langs/?username=cecon123&layout=compact&theme=catppuccin_mocha&langs_count=10&size_weight=0&count_weight=1&hide=html,css,cmake,batchfile" />
 </div>
 
+[![DISCORD](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square)](https://discord.gg/imduong2k6)
+![](https://komarev.com/ghpvc/?username=cecon123&color=e1bdff)

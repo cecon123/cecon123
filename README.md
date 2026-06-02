@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 - 💬 Discord: [cecon123](https://discord.com/users/1071086835490639962)
 
 ## 🚀 Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,rust" />
-  </a>
-</p>
 <div align="center">
   <p><b><i>programming languages</i></b></p>
   <img src="https://skillicons.dev/icons?i=cpp,rust,js,ts,java,bash" height="40"/>   

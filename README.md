@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/cecon123/cecon123/refs/heads/main/gura-drum.webp">
 
 ## 📬 Contact
-- 💌 Email: [cachuav3@gmail.com](mailto:cachuav3@gmail.com)
+- 💌 Email: [mrcatcat1996@gmail.com](mailto:mrcatcat1996@gmail.com)
 - 💼 LinkedIn: [...](https://youtu.be/dQw4w9WgXcQ?si=V89ZJ-H43JCyHSMH)
 - 💬 Discord: [cecon123](https://discord.com/users/1071086835490639962)
 

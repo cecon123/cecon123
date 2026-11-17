@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 <div align="left">
-  <img height=210 src="https://github-readme-stats--im-yuuki.vercel.app/api?username=cecon123&show_icons=true&show=prs_merged_percentage&theme=catppuccin_mocha" />
+  <img height=210 src="https://github-stats-extended.vercel.app/api?username=cecon123&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" />
   <img width="10" />
-  <img height=210 src="https://github-readme-stats--im-yuuki.vercel.app/api/top-langs/?username=cecon123&layout=compact&theme=catppuccin_mocha&langs_count=10&size_weight=0&count_weight=1&hide=html,css,cmake,batchfile" />
+  <img height=210 src="https://github-stats-extended.vercel.app/api/top-langs?username=cecon123&layout=compact&langs_count=4&theme=catppuccin_mocha" />
 </div>
